@@ -1,0 +1,98 @@
+#start{
+  text-align: center;
+  position: fixed;
+  top:2%;
+  background-color: #19D119;
+  left:1%;
+  width: 70px;
+  z-index: 2;
+}
+#stop{
+  text-align: center;
+  position: fixed;
+  background-color: #FF1919 ;
+  top:2%;
+  width:70px;
+  left:8%;
+  z-index: 2;
+}
+#heading{
+    text-align: center;
+    width: 100%;
+}
+#Image1{
+  text-align: center;
+  position: absolute;
+  top:7%;
+  left:3.5%;
+}
+#image{
+  width: 581.81px;
+  height: 436.36px;
+}
+#Image1Msg{
+  text-align: center;
+  position: absolute;
+  top:7%;
+  left:3.5%;
+}
+#Image2{
+  text-align: center;
+  position: absolute;
+  top:7%;
+  left:52%;
+}
+#image2{
+  width: 581.81px;
+  height: 436.36px;
+}
+#Image2Msg{
+  text-align: center;
+  position: absolute;
+  top:7%;
+  left:52%;
+}
+#image_status{
+  position: absolute;
+  top:80%;
+  left:70%;
+  width: 150px;
+  height: 150px;
+}
+#values{
+  text-align: center;
+  position: absolute;
+  top:80%;
+  left:10%;
+}
+#table{
+  position: absolute;
+  top:105%;
+  left:3.5%;
+}
+#tableMsg{
+  text-align: center;
+  position: absolute;
+  top:105%;
+  left:3.5%;
+}
+#graph{
+  text-align: center;
+  position: absolute;
+  top:105%;
+  left:52%;
+}
+#graphMsg{
+  text-align: center;
+  position: absolute;
+  top:105%;
+  left:52%;
+}
+#abc{
+  width: 581.81px;
+  height: 436.36px;
+  }
+#table{
+  width: 581.81px;
+  height: 436.36px;
+}
